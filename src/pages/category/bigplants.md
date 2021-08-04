@@ -1,7 +1,7 @@
 ---
 order: 1
 seo:
-  title: Big plants
+  title: Black Rice - Karuppu Kavuni
   description: This is the store page
   extra:
     - name: 'og:type'
