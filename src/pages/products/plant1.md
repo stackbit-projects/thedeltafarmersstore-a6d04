@@ -3,7 +3,7 @@ id: '1'
 title: Black rice (Karuppu Kavuni)
 description: Premium Rice - ½ Kg
 default_thumbnail_image: images/karuppu-kavuni-black-rice-500x500.jpeg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/karuppu-kavuni-black-rice-500x500.jpeg
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
