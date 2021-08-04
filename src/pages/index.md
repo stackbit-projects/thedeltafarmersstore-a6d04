@@ -61,7 +61,7 @@ sections:
       arrow: true
 seo:
   title: The Delta Farmers
-  description: The preview of the Planty theme
+  description: 'Organic food from real organic farmers. We are '
   extra:
     - name: 'og:type'
       value: website
