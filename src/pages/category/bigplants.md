@@ -27,4 +27,5 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 template: category
+title: Premium Rice - ½ Kg
 ---
