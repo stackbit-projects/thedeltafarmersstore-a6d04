@@ -1,7 +1,7 @@
 ---
 id: '1'
 title: Black rice (Karuppu Kavuni)
-description: 'Premium Rice '
+description: 'Premium Rice - ½ '
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
