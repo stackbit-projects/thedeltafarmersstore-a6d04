@@ -2,7 +2,7 @@
 order: 1
 seo:
   title: Black Rice - Karuppu Kavuni
-  description: This is the store page
+  description: 'Black Rice, Karuppu Ka'
   extra:
     - name: 'og:type'
       value: website
