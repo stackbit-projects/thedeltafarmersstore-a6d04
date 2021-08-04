@@ -61,7 +61,9 @@ sections:
       arrow: true
 seo:
   title: The Delta Farmers
-  description: 'Organic food from real organic farmers. We are '
+  description: >-
+    Organic food from real organic farmers. We sell organic food products. We
+    are farmers based out of the delta region of 
   extra:
     - name: 'og:type'
       value: website
