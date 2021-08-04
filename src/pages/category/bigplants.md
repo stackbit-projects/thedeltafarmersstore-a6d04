@@ -1,5 +1,4 @@
 ---
-title: Big plants
 order: 1
 seo:
   title: Big plants
