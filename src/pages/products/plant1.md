@@ -34,7 +34,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 template: product
-price: '1'
+price: '150'
 ---
 
 # Nulla suscipit
