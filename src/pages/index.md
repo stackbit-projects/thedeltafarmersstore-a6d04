@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: The Delta Farmers
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
