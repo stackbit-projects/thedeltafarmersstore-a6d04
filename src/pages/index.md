@@ -72,7 +72,9 @@ seo:
       value: The Delta Farmers
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: >-
+        Organic food from real organic farmers. We sell real organic food
+        products. We are farmers based out of the delta region in TamilNadu.
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
