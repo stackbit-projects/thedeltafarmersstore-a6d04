@@ -2,7 +2,7 @@
 id: '1'
 price: '49.40'
 title: Black rice (Karuppu Kavuni)
-description: Black
+description: Black rice
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
