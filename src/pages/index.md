@@ -18,7 +18,7 @@ sections:
         arrow: true
         style: primary
   - type: featured_products_section
-    section_id: available_sellers_section
+    section_id: available_now_section
     title: Available Now
     icon: true
     light_title: true
