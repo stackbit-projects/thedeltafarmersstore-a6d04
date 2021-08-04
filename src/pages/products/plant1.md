@@ -8,7 +8,7 @@ featured: true
 order: 1
 category: src/pages/category/bigplants.md
 seo:
-  title: Nulla suscipit
+  title: Nulla suscipitone
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
