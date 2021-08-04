@@ -63,7 +63,7 @@ seo:
   title: The Delta Farmers
   description: >-
     Organic food from real organic farmers. We sell organic food products. We
-    are farmers based out of the delta region of 
+    are farmers based out of the delta region of Tamilnadu
   extra:
     - name: 'og:type'
       value: website
